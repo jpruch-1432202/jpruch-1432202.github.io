@@ -1,0 +1,34 @@
+body{
+  background-color: lightblue;
+
+
+}
+
+p{
+
+}
+
+h2{
+
+}
+
+fieldset1{
+  float: right;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+fieldset2{
+  margin: 40px 0px 40px 0px;
+  text-align: center;
+}
+
+fieldset3{
+  background-color: orange;
+  padding-bottom:15px;
+  font-style: italic;
+}
+fieldset4{
+  font-family: "Cursive";
+  color: purple;
+  }
